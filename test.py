@@ -1,3 +1,3 @@
 lista = [1, 2, 3]
 
-print(len(lista))
+print(f"Lunghezza della lista: {len(lista)}")
