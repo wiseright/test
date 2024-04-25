@@ -7,4 +7,5 @@ def show_min(lista: list) -> float:
     print(f"Minimo in lista: {min(lista)}")
 
 print(f"Lunghezza della lista: {len(lista)}")
+show_min(lista)
 
