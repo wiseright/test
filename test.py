@@ -1,3 +1,4 @@
+from utils import somma
 lista = [1, 2, 3]
 
 def show_max(lista:list) -> float:
@@ -13,3 +14,6 @@ show_max(lista)
 show_min(lista)
 show_len(lista)
 
+a = 1
+b = 10
+print(somma(a, b))
